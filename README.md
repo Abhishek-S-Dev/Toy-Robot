@@ -3,7 +3,7 @@
 Getting Started
 
 Clone this repository to your local machine or download the source code.
-git clone 
+git clone https://github.com/Abhishek-S-Dev/Toy-Robot.git
 
 Navigate to the project directory.
 cd toy-robot-simulator
